@@ -22,7 +22,7 @@ I am Luoyan Wei, you could call me Laura
 - **Frameworks**: 
   - Laravel
   - ThinkPHP
-  - Angular (Familiar with)
+  - Symfony, or CodeIgniter (Familiar with)
 
 - **Database Management**: 
   - MySQL (Database design and optimization)
@@ -41,6 +41,7 @@ I am Luoyan Wei, you could call me Laura
   - Data processing and optimization
 
 ### 🌟 Fun Fact
-My hobbies include boxing, cycling, and drumming!
+Outside of work, I actively participate in volunteer activities, which have enriched my understanding of teamwork, adaptability, and community engagement. These experiences have strengthened my interpersonal skills and fostered a strong commitment to community values. Additionally, my hobbies—Lift training, boxing, squash, park-run, and drumming, reading—play a significant role in maintaining my physical and mental well-being. These activities not only keep me energized but also enhance my resilience and focus, both of which are valuable in a professional setting.
+
 ### 📊 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weiluoyan&layout=compact&theme=radical)
