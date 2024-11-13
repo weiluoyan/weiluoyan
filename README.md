@@ -8,7 +8,7 @@ I am Luoyan Wei, you could call me Laura
 - 🎯 Looking to connect with fellow developers and build amazing projects 
 
 ### 💼 How to reach me:
-- 📫 Email: [luoyanw@utas.edu.au](mailto:luoyanw@utas.edu.au) or weiluoyan@gmail.com (mailto:weiluoyan@gmail.com)
+- 📫 Email: [luoyanw@utas.edu.au](mailto:luoyanw@utas.edu.au) or [weiluoyan@gmail.com](mailto:weiluoyan@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/luoyan-wei-9693842b2)
 - [Blog](https://www.cnblogs.com/weiluoyan)
 
