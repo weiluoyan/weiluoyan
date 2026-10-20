@@ -2,10 +2,10 @@
 
 I am Luoyan Wei, you could call me Laura
 
-- 🌱 Currently studying at the University of Tasmania
-- 🧑‍💻 Senior Software Engineer & Project Owner
-- 🛠️ Proficient in PHP, AWS, MySQL, Golang, Python
-- 🎯 Looking to connect with fellow developers and build amazing projects 
+- Currently studying at the University of Tasmania
+- Senior Software Engineer & Project Owner
+- Proficient in PHP, AWS, MySQL, Golang, Python
+- Looking to connect with fellow developers and build amazing projects 
 
 ### 💼 How to reach me:
 - 📫 Email: [luoyanw@utas.edu.au](mailto:luoyanw@utas.edu.au) or [weiluoyan@gmail.com](mailto:weiluoyan@gmail.com)
